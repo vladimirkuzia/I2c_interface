@@ -1,0 +1,15 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+
+Start test: 
+
+==========================
+CLICK THE BUTTON 'Run All'
+==========================
+
+$stop called at time : 0 fs : File "C:/Users/8211610/Desktop/rll_coder/rll_coder/rll_coder.srcs/sim_1/new/tb_i2c.sv" Line 36
+
+ The test is over 
+ See the internal signals of the module on the waveform 
+
+$finish called at time : 6790040 ns : File "C:/Users/8211610/Desktop/rll_coder/rll_coder/rll_coder.srcs/sim_1/new/tb_i2c.sv" Line 131
